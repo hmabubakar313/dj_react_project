@@ -15,5 +15,20 @@ code {
 main
 {
   min-height: 80vh;
-  background-color: bisque;
+}
+h1{
+  text-align: center;
+  padding: 1rem 0;
+}
+h2{
+  padding: 1rem 0;
+}
+
+
+
+h3{
+  padding: 1rem 0;
+}
+.rating span{
+  margin: 0.1rem;
 }
